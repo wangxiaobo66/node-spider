@@ -1,0 +1,10 @@
+{
+  "name": "node-spider",
+  "version": "0.0.1",
+  "devDependencies": {
+    "cheerio": "^0.22.0",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "request": "^2.79.0"
+  }
+}
